@@ -12,4 +12,4 @@ install :
   
 script:
   - python test_tennis.py
-  - python test_random.py
+ 
